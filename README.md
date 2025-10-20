@@ -1,16 +1,16 @@
-<h1 align="start">👋 Hola, soy Mario Rojas</h1>
+<h1 align="start">Hola, soy Mario Rojas</h1>
 <h3 align="start">Desarrollador Backend | Java & Spring Boot</h3>
 
 ---
 
-### 🚀 Sobre mí
-💡 Me apasiona el desarrollo backend con Java y la creación de sistemas bien estructurados.  
-⚙️ Me gusta diseñar APIs seguras con **Spring Boot**, **JWT**, y bases de datos relacionales como **MySQL**.  
-📚 En constante aprendizaje de **buenas prácticas, SOLID**, **arquitectura hexagonal** y como siempre **siempre aprendiendo de todo**.  
+### Sobre mí
+    Me apasiona el desarrollo backend con Java y la creación de sistemas bien estructurados.  
+    Me gusta diseñar APIs seguras con **Spring Boot**, **JWT**, y bases de datos relacionales como **MySQL**.  
+    En constante aprendizaje de **buenas prácticas, SOLID**, **arquitectura hexagonal** y como siempre **siempre aprendiendo de todo**.  
 
 ---
 
-### 🧰 Tecnologías principales
+### Tecnologías principales
 
 #### Lenguajes
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -33,9 +33,9 @@
 
 ---
 
-### 🧱 Proyectos destacados
+###  Proyectos destacados
 
-#### 🏥 **Sistema de Gestión de Citas Médicas**
+####  **Sistema de Gestión de Citas Médicas**
 Aplicación web para la administración de citas médicas con autenticación JWT, roles (MÉDICO / PACIENTE) y generación de reportes PDF.
 
 🔹 **Backend:** Spring Boot + MySQL  

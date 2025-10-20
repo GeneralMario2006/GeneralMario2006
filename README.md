@@ -4,9 +4,9 @@
 ---
 
 ### Sobre mí
-    Me apasiona el desarrollo backend con Java y la creación de sistemas bien estructurados.  
-    Me gusta diseñar APIs seguras con **Spring Boot**, **JWT**, y bases de datos relacionales como **MySQL**.  
-    En constante aprendizaje de **buenas prácticas, SOLID**, **arquitectura hexagonal** y como siempre **siempre aprendiendo de todo**.  
+Me apasiona el desarrollo backend con Java y la creación de sistemas bien estructurados.  
+Me gusta diseñar APIs seguras con **Spring Boot**, **JWT**, y bases de datos relacionales como **MySQL**.  
+En constante aprendizaje de **buenas prácticas, SOLID**, **arquitectura hexagonal** y como siempre **siempre aprendiendo de todo**.  
 
 ---
 
